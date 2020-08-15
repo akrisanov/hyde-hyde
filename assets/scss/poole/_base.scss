@@ -76,3 +76,11 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+hr {
+  margin: 2em 0 2em 0;
+  height: 2px;
+  border: none;
+  color:rgb(60,90,180);
+  background-color:rgb(60,90,180);
+}

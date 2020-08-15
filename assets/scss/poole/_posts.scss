@@ -10,6 +10,10 @@
   li + li {
     margin-top: .25rem;
   }
+
+  ul li {
+    list-style: none;
+  }
 }
 
 // Blog post or page title
