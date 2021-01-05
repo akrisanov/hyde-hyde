@@ -79,8 +79,8 @@ tbody tr:nth-child(odd) th {
 
 hr {
   margin: 2em 0 2em 0;
-  height: 2px;
-  border: none;
-  color:rgb(60,90,180);
-  background-color:rgb(60,90,180);
+  border: 1px dotted rgb(60,90,180);
+  border-style: none none dotted; 
+  color: #fff; 
+  background-color: #fff;
 }
